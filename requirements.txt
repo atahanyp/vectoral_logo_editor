@@ -1,0 +1,4 @@
+PyQt5==5.15.9
+PyMuPDF==1.22.5
+reportlab==4.0.4
+svglib==1.5.1
